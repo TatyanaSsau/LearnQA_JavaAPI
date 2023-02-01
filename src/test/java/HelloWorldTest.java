@@ -5,5 +5,5 @@ public class HelloWorldTest {
     @Test
     public void testJavaWorld()
 
-    { System.out.println("Hello from Tanya");}
+    { System.out.println("Hello world");}
 }
